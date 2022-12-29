@@ -1,0 +1,5 @@
+packages:
+  - name: speech-to-text
+    actions:
+      - name: speech-to-text
+        runtime: 'python:default'
